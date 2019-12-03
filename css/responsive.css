@@ -1,3 +1,4 @@
+/*shows responsive design for small screen */
 @media screen and (max-width:640px){
    .container .deck{
      width: 330px;
@@ -14,6 +15,7 @@
   margin-top: 2.5rem;
 }
 }
+
 @media screen and (max-width:350px){
   .container .deck{
     width: 300px;
